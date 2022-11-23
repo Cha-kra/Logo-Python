@@ -1,2 +1,2 @@
 # Logo-Python
-Logo python 
+![My Image](images/my-image.jpg)
